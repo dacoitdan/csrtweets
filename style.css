@@ -2,7 +2,7 @@
 
 h1 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 45px;
+    font-size: 30px;
     font-style: normal;
     font-variant: normal;
     font-weight: 500;
@@ -82,6 +82,10 @@ div {
 #header {
     padding-top: 10%;
     padding-bottom: 5%;
+}
+
+#footer {
+    padding-top: 10%;
 }
 
 #content {
